@@ -2,19 +2,10 @@
     {
         "_id":1,
         "name": "HP 27 INCH LED IPS MONITOR | M27FW",
-        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/l/e/left_facing_2_4.png",
-        "price" : "27,500.00",
-        "available": 230,
-        "rating": 27,
-        "description":"Model: HP 27 INCH M27FW LED IPS MONITOR , Display size: 68.6 cm Brightness: 300 nits"
+        
     },
     {
         "_id":2,
         "name": "DELL OptiPlex 7080 Core I7-Free DOS",
-        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/e/z/ezgif.com-webp-to-jpg_2.jpg",
-        "price" : "90,000.00",
-        "available": 20,
-        "rating": 37,
-        "description":"Premium intelligent desktops. Intelligent business tower and small form factor desktops that deliver ultimate expandability and performance. With 10th GeIntel® processors. "
-    }
+        
 ]
